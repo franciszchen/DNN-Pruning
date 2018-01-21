@@ -1,0 +1,4 @@
+[submodule "caffe-pro"]
+	path = caffe-pro
+	url = git@github.com:yihui-he/caffe-pro.git
+	branch = master
