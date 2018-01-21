@@ -5,7 +5,7 @@ Pruing is one of the hot topics on reduction of computing resources requiered by
 ## Dependencies
 
 The base of this code was written and shared by [He Yihui](https://github.com/yihui-he), and runs on his costum branch of CAFFE (python 3 implementation).
-After cloning the repo, build the CAFFE binaries by following the instructions on the brach [repo](https://github.com/yihui-he/caffe-pro).
+After cloning the repo, build the CAFFE binaries by following the instructions in the branch [repo](https://github.com/yihui-he/caffe-pro).
 Train or donwload a caffemodel and place it in the temp directory. 
 Make sure to modify cfgs.py with the layer names and pruning degree (i.e. number of channels that will be retained after the pruning process) you desire for each layer.
 
