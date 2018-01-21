@@ -22,6 +22,9 @@ Follow the command prompt instruction to select the operation mode or the prunin
 
 ## Example
 
-When adjusting the code to plot the sensitivity curves pruning 1 channel at a time, the following graph can be obtain for the case of VGG16 trained on CIFAR-10
+When adjusting the code to plot the sensitivity curves pruning 1 channel at a time, the following graphs like the following can be obtained:
+
+- VGG16 model
+- CIFAR-10 dateset
 
 ![vgg16-cifar10-detailed](https://user-images.githubusercontent.com/24645932/35195504-fc8bc1fc-ff07-11e7-8982-afe6fe39c5fa.png)
